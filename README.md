@@ -16,6 +16,11 @@ To upload the monitor to the Badger 2040 running Micropython, install [Adafruit 
 * You should see the display start up
 * You can monitor it over USB using: `screen /dev/tty.usbmodem14401 115200 -L`
 
+## Useful links
+
+* [Badger 2040 getting started guide](https://learn.pimoroni.com/article/getting-started-with-badger-2040)
+* [Badger 2040 functions](https://github.com/pimoroni/pimoroni-pico/tree/main/micropython/modules/badger2040#update-speed)
+
 ## TODO
 
 - [x] Display readings from an SCD-41 CO2 sensor
