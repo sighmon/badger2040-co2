@@ -1,6 +1,6 @@
 # Badger 2040 CO2 monitor
 
-A CO2 monitor that prints readings to a Pimoroni Badger 2040 e-ink display.
+A CO2 monitor that prints readings to a [Pimoroni Badger 2040](https://pimoroni.com/badger2040) e-ink display.
 
 ![The Badger 2040 plugged into an SCD-41 CO2 sensor](badger2040-co2.jpg)
 
