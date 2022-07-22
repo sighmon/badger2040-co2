@@ -2,6 +2,8 @@
 
 A CO2 monitor that prints readings to a Pimoroni Badger 2040 e-ink display.
 
+![The Badger 2040 plugged into an SCD-41 CO2 sensor](badger2040-co2.jpg)
+
 When powered up (or the `a` + `c` buttons are pressed), the sensor will make 10 readings and display them on screen.
 
 After the 10th reading it will shutdown to save power, leaving the last reading on the screen.
