@@ -29,3 +29,6 @@ To upload the monitor to the Badger 2040 running Micropython, install [Adafruit 
 - [ ] Display readings from an SCD-30 CO2 sensor
 - [ ] Display maximum/average readings
 - [ ] Graph the readings over time
+- [ ] Add battery gauge
+- [ ] Arrow up button increases number of readings
+- [ ] `b` button switches between graph mode and readings
